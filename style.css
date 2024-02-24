@@ -1,12 +1,12 @@
 .heading {
     font-size: 30px;
-    font-weight: bold;
+    font-weight: 700;
     color: blue;
 }
 
 .description {
     font-size: 15px;
-    color:aqua
+    color:aqua;
 }
 
 .footer {
